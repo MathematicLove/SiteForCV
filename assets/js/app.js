@@ -26,7 +26,8 @@
         title: 'Haskell',
         className: 'tag-haskell',
         groups: [
-          { name: 'Сборка', items: ['Stack', 'Cabal'] }
+          { name: 'Сборка', items: ['Stack', 'Cabal'] },
+          { name: 'Web', items: ['ThreePenny-GUI'] }
         ]
       },
       {
