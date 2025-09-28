@@ -125,7 +125,8 @@
           { label: 'Игра в жизнь на КА', href: 'https://github.com/MathematicLove/LiveTheGame' },
           { label: 'ТГ-Бот отслеживания цен: PriceCheckerBot', href: 'https://github.com/MathematicLove/PriceCheckerBot' },
           { label: 'ТГ-Бот планирования путешествий: SpringTripPlannerBot', href: 'https://github.com/MathematicLove/SpringTripPlannerBot' },
-          { label: 'REST сервер на Java', href: 'https://github.com/MathematicLove/JavaHTTPServer' }
+          { label: 'REST сервер на Java', href: 'https://github.com/MathematicLove/JavaHTTPServer' },
+          { label: 'NextDayPlanner (выбрать одежду на день)', href: 'https://github.com/MathematicLove/NextDayPlanner' }
         ]
       },
       {
@@ -136,14 +137,6 @@
           { label: 'Цитаты из фильмов и мультфильмов', href: 'https://github.com/MathematicLove/quotes_web_app' }
         ]
       },
-      {
-        key: 'nextday',
-        title: 'NextDay',
-        className: 'tag-task-nextday',
-        links: [
-          { label: 'NextDay (выбрать одежду на день)', href: 'https://github.com/MathematicLove/NextDayPlanner' }
-        ]
-      }
     ]
   };
 
