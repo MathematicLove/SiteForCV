@@ -97,7 +97,7 @@
         title: 'Научная область',
         className: 'tag-science',
         groups: [
-          { name: 'Опыт', items: ['Решение динамических задач VRP гибридными алгоритмами ML'] }
+          { name: 'Опыт', items: ['Распознавание объектов на трамвайных путях'] }
         ]
       }
     ],
@@ -134,6 +134,14 @@
         className: 'tag-task-web',
         links: [
           { label: 'Цитаты из фильмов и мультфильмов', href: 'https://github.com/MathematicLove/quotes_web_app' }
+        ]
+      },
+      {
+        key: 'nextday',
+        title: 'NextDay',
+        className: 'tag-task-nextday',
+        links: [
+          { label: 'NextDay (выбрать одежду на день)', href: 'https://github.com/MathematicLove/NextDayPlanner' }
         ]
       }
     ]
